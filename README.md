@@ -1,4 +1,4 @@
-# Data-Drive Model Reduction Techniques for Dynamic Systems
+# Data-Driven Model Order Reduction Techniques for Dynamic Systems
 
 **Author**: Charukhesh B.R
 
